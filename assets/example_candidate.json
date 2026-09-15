@@ -1,0 +1,98 @@
+{
+  "first_name": "Mathew",
+  "last_name": "Benny",
+  "notice_period": "TBC",
+  "internal_external": "TBC",
+  "interview_availability": "TBC",
+  "start_availability": "TBC",
+  "worked_ford_direct": "No",
+  "worked_ford_agency": "No",
+  "cdsid": "NA",
+  "supervision_duration": "NA",
+  "exit_reason": "NA",
+  "overall_it_experience": "NA",
+  "experience_core_skill": "NA",
+  "other_qualifications": "NA",
+  "hackerrank_score": "NA",
+  "certifications": "NA",
+  "top_skills": [
+    "Large Language Models (LLM) / Agentic AI – LangChain, LangGraph, LangFlow",
+    "Embedded Linux & Yocto Project",
+    "Machine Learning / Deep Learning – TensorFlow, PyTorch, Keras"
+  ],
+  "education_bachelor": "B.Sc Electronics Science – Mar Augusthinose College, Ramapuram (affiliated to Mahatma Gandhi University, Kottayam) – completed 03.2018",
+  "education_master": "M.Tech Electronics & Communication (Specialization: Robotics & Intelligent Systems, Neural Networks); M.Sc Electronics Science – Cochin University of Science and Technology, Cochin",
+  "education_master_duration": "NA – 05.2022 (M.Tech); NA – 06.2020 (M.Sc)",
+  "education_bachelor_detail": "B.Sc Electronics Science, Mar Augusthinose College, Ramapuram (affiliated to Mahatma Gandhi University, Kottayam)",
+  "employment": [
+    {
+      "duration": "June 2022 – Present",
+      "company": "Hewlett Packard (HP Inc), Bengaluru, India",
+      "title": "L2 Software System Engineer / Embedded System Engineer & AI Specialist",
+      "technology": "Agentic AI, MCP server, LLM automation, CI/CD, Embedded Linux, Yocto Project, ML models for print/colour calibration",
+      "role": "Implemented LLM automation in CI/CD with agentic AI & MCP server, improving code quality and system stability by 27%; developed ML models for print enhancement and colour gradient adjustments; designed Reset manager and Coredump mechanisms; improved user experience via diagnostic data-driven firmware updates; won 2nd prize in company-wide hackathon"
+    },
+    {
+      "duration": "October 2021 – May 2022",
+      "company": "Sony India & Sony Japan, Cochin (Remote), India",
+      "title": "Research Intern",
+      "technology": "Hydrophones, data acquisition systems, deep learning for acoustic classification, Edge AI deployment",
+      "role": "Developed data acquisition systems using hydrophones for capturing marine signals & noise; designed deep learning architectures for acoustic sound classification to identify & monitor marine species; optimized DL models for Edge AI real-time processing; designed & developed a solar-powered intelligent buoy system"
+    },
+    {
+      "duration": "December 2020 – August 2021",
+      "company": "APES AI Pvt Ltd, Cochin, India",
+      "title": "Data Analyst / NLP Analyst",
+      "technology": "Natural Language Processing (NLP), Computer Vision, Deep Learning",
+      "role": "Led research & analyst work in Natural Language Processing and computer-vision-based deep learning models for clients"
+    },
+    {
+      "duration": "June 2020 – September 2020",
+      "company": "Bagmo Pvt Ltd, Cochin, India",
+      "title": "Embedded Engineer & Data Analyst",
+      "technology": "IoT, predictive modeling, data-driven monitoring systems",
+      "role": "Implemented data-driven solutions for safe transportation of blood bags; analysed temperature fluctuations and external factors affecting blood quality; developed predictive models to proactively mitigate risks and maintain optimal storage conditions"
+    }
+  ],
+  "resume": {
+    "name": "MATHEW BENNY",
+    "work_experience": [
+      {
+        "title": "Embedded System Engineer & AI Specialist",
+        "company": "Hewlett Packard (HP Inc), Bengaluru, India",
+        "duration": "Jun 2022 \u2013 Present",
+        "bullets": [
+          "Played a pivotal role in enhancing device functionality, system stability and improved user experience as an AI Specialist and embedded engineer in Agile methodologies.",
+          "Implemented LLM automation in CI/CD servers with agentic AI & MCP server which improved code quality and system stability by 27%.",
+          "Developed and integrated ML models for print enhancement and colour gradient adjustments.",
+          "Designed critical system components like Reset manager and Coredump mechanisms, and significantly improved user experience through diagnostic data-driven firmware updates.",
+          "Earned 2nd prize in a company-wide hackathon."
+        ]
+      },
+      {
+        "title": "Research Intern",
+        "company": "Sony India & Sony Japan, Cochin (Remote), India",
+        "duration": "October 2021 \u2013 May 2022",
+        "bullets": [
+          "Developed and deployed data acquisition systems using hydrophones for high-fidelity capture of marine signals & noise.",
+          "Designed deep learning architectures for acoustic sound classification, achieving high accuracy in identifying & monitoring marine species.",
+          "Optimized deep learning models for Edge AI deployment, enabling real-time processing on devices.",
+          "Designed & developed a solar-powered intelligent buoy system."
+        ]
+      }
+    ],
+    "education": [
+      "M.Tech Electronics & Communication - Specialization in Robotics and Intelligent System & Neural Network \u2014 Cochin University of Science and Technology, Cochin \u2014 May 2022",
+      "M.Sc Electronics Science \u2014 Cochin University of Science and Technology, Cochin \u2014 June 2020",
+      "B.Sc Electronics Science \u2014 Mar Augusthinose College, Ramapuram (Affiliated to Mahatma Gandhi University, Kottayam) \u2014 March 2018"
+    ],
+    "skills": [
+      "Python", "TensorFlow", "PyTorch", "Keras", "Natural Language Processing (NLP)",
+      "Large Language Model (LLM)", "Agentic AI - LangChain, LangGraph, LangFlow",
+      "RAG (Retrieval Augmented Generation)", "Docker", "Agile - JIRA, Jenkins"
+    ],
+    "certificates": [
+      "Runner Up, HP Companywide Hackathon"
+    ]
+  }
+}
